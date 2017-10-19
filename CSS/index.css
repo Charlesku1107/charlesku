@@ -1,0 +1,193 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    width:auto;
+    height: auto;
+}
+
+body{
+    background-color: #EDF2C5;
+}
+
+
+main{
+    height: 827px;
+    width: 1260px;
+    padding: 0px 160px;
+    margin: auto;
+}
+
+.header{
+    width: 940px;
+    height: 42px;
+    margin-top: 53px;
+    margin-bottom: 8px;
+}
+
+header h1{
+    width: 271px;
+    height: 42px;
+    float:left;
+    font-size:44px;
+    font-family: "Arial Black",Helvatica,sans-serif;
+    color: #778A50;
+    line-height:30px;
+}
+
+.headerdiv{
+    float: right;
+    margin-top: 8.5px;
+    margin-bottom: 8.5px;
+}
+
+.btn_facebook{
+    margin-right: 10px;
+    float: left;
+}
+
+.btn_instagram{
+    padding-right: 10px;
+    margin-right: 0;
+    float: left;
+    border-right: 1px solid #778A50;
+}
+
+.headerdiv h4{
+    border: 1px solid #778A50;
+    border-radius: 3px;
+    float: right;
+    color: #778A50;
+    font-size: 14px;
+    font-family: "Arial Black",Helvatica,sans-serif;
+    padding:1.5px 7.5px;
+    margin-left:10px;
+    box-shadow: 2px 2px 5px #778a50;
+}
+
+.navbar{
+    width: 940px;
+    height: 44px;
+    background-color: #778A50;
+    box-shadow: 2px 2px 5px #778a50;
+}
+
+.navbartext{
+    color: #EDF2C5;
+    font-size: 16px;
+    font-family: "Arial Black",Helvatica,sans-serif;
+    margin:8px 30px ;
+    float: left;
+}
+
+.pumpkin{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.img_1{
+    width:940px;
+    height:440px;
+}
+
+#Vegetables{
+    float: left;
+}
+
+#Vegetables img {
+  float: left;
+  margin-top: 15px;
+  border-radius: 3px;
+}
+
+.boxtitle {
+  width: 445px;
+  height: 45px;
+  background-color: #778a50;
+  font-family: "Arial Black",Helvetica,sans-serif;
+  font-size: 16px;
+  line-height: 13px;
+  font-weight: bold;
+  color: #edf2c5;
+  padding: 15px 30px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 5px #778a50;
+}
+
+
+
+
+.content2text{
+    width: 445px;
+    height: 45px;
+    background-color: #778A50;
+    float: left;
+    font-family: "Arial Black",Helvatica,sans-serif;
+    font-size:16px;
+    color: #EDF2C5;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+    padding-left:30px;
+}
+
+.veg_img {
+    margin-left: 12px;
+    box-shadow: 2px 2px 5px #778a50;
+}
+
+.veg_img1{
+    box-shadow: 2px 2px 5px #778a50;
+}
+
+
+#Contact{
+    float: right;
+}
+
+.text-box{
+  width: 445px;
+  height: 140px;
+  font-family: "ArialMT Regular",Helvetica,sans-serif;
+  font-weight: normal;
+  font-size: 12px;
+  color: #7d7d7d;
+  background-color: #f7fbda;
+  margin-top: 15px;
+  padding: 16px 15px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 5px #778a50;
+}
+
+
+.p-style{
+  line-height: 1.33;
+  padding-bottom: 16px;
+}
+
+.contactline{
+  width: 414px;
+  margin: auto;
+  border-bottom: 1px solid #7d7d7d;
+}
+
+
+.p-style2{
+  line-height: 1.83;
+  padding-top: 12px;
+}
+
+footer {
+  width:1260px;
+  height: 60px;
+  background-color: #778a50;
+  padding-top: 24px;
+  padding-bottom: 25px;
+  font-family: "ArialMT Regular",Helvetica,sans-serif;
+  font-size: 12px;
+  color: #edf2c5;
+}
+
+.footer {
+  text-align: center;
+  clear: both;
+}
